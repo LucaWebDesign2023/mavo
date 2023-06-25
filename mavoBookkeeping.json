@@ -1,0 +1,23 @@
+{
+	"companyLogo": "logo/dbz.jpg",
+	"companyName": "Don Bosco Zwijnaarde",
+	"companyAddress": "Grotesteenweg-Noord 113\n\t\t\t9052 Zwijnaarde (Gent)\n\t\t\t00 32 (0) 9 221 46 48",
+	"companyURL": "http://www.dbz.be",
+	"companyEmail": "info@dbz.be",
+	"invoice": [
+		{
+			"id": "?",
+			"recipient": {
+				"name": "Recipient name",
+				"address": "Recipient address"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "\n\t\t\t\t\t\tDescription of service provided\n\t\t\t\t\t",
+					"amount": "Amount"
+				}
+			]
+		}
+	]
+}
