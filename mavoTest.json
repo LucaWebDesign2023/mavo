@@ -1,0 +1,30 @@
+{
+	"hue": 38,
+	"saturation": 23,
+	"lightness": 77,
+	"email": "luca@email.com",
+	"message": "Hier staat een boodschap!   ",
+	"firstName": "Luca",
+	"last_name": "Don Bosco",
+	"pet": [
+		{
+			"name": "Adam Catlace",
+			"birthday": "2014-06-01"
+		},
+		{
+			"name": "Grumpy Gat",
+			"birthday": "2020-01-01"
+		}
+	],
+	"strength": 80,
+	"person": [
+		{
+			"name": "Peter",
+			"age": "30"
+		},
+		{
+			"name": "Maria",
+			"age": "20"
+		}
+	]
+}
