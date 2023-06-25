@@ -1,13 +1,1 @@
-{
-	"factuur": [
-		{
-			"prop": "Bestelling boeken",
-			"bedrag": "250"
-		},
-		{
-			"prop": "Busabonnement",
-			"bedrag": "300"
-		},
-		{}
-	]
-}
+
