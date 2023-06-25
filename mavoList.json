@@ -14,6 +14,12 @@
 			"commentaar": "<strong>Hier staat vette tekst.</strong> En een weblink naar <a title=\"De Lijn\" href=\"http://www.delijn.be\" target=\"_blank\" rel=\"noopener\">De Lijn</a>.",
 			"betaaldatum": "2023-08-15"
 		},
-		{}
+		{
+			"bestelling": "Ingangskaart zomerfestival",
+			"begunstigde": "Rock Werchter",
+			"bedrag": "236",
+			"betaaldatum": "2023-06-10",
+			"commentaar": "<li>Editors</li>\n<li>Inhaler</li>\n<li>Black Box Revelation</li>"
+		}
 	]
 }
