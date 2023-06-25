@@ -1,1 +1,10 @@
-
+{
+	"factuur": [
+		{
+			"bestelling": "Bestelling schoolboeken",
+			"begunstigde": "DBZ Zwijnaarde",
+			"bedrag": "250"
+		},
+		{}
+	]
+}
