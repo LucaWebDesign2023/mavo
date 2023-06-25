@@ -3,7 +3,8 @@
 		{
 			"bestelling": "Bestelling schoolboeken",
 			"begunstigde": "DBZ Zwijnaarde",
-			"bedrag": "250"
+			"bedrag": "250",
+			"commentaar": "<strong>Hier staat vette tekst.&nbsp;</strong>En een weblink naar <a title=\"Don Bosco Zwijnaarde\" href=\"http://www.dbz.be/\" target=\"_blank\" rel=\"noopener\">DBZ</a>."
 		},
 		{
 			"bestelling": "Busabonnement",
