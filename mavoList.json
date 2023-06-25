@@ -4,7 +4,7 @@
 			"bestelling": "Bestelling schoolboeken",
 			"begunstigde": "DBZ Zwijnaarde",
 			"bedrag": "250",
-			"commentaar": "&lt;strong&gt;Hier staat een logo.&lt;img src=\\\"logo/dbz.jpg\\\" alt=\\\"Logo DBZ\\\" width=\\\"100\\\" height=\\\"100\\\" /&gt;&lt;/strong&gt;",
+			"commentaar": "<img src=\"logo/dbz.jpg\" alt=\"Don Bosco Zwijnaarde\" width=\"100\" height=\"100\" />",
 			"betaaldatum": "2023-06-30"
 		},
 		{
