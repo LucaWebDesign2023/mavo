@@ -4,6 +4,11 @@
 			"bestelling": "Bestelling schoolboeken",
 			"begunstigde": "DBZ Zwijnaarde",
 			"bedrag": "250"
+		},
+		{
+			"bestelling": "Busabonnement",
+			"begunstigde": "De Lijn",
+			"bedrag": "300"
 		}
 	]
 }
