@@ -18,7 +18,7 @@
 			"betaaldatum": "2023-08-15",
 			"done": false,
 			"categorie": "school",
-			"currency": "$"
+			"currency": "€"
 		},
 		{
 			"bestelling": "Ingangskaart zomerfestival",
@@ -28,7 +28,7 @@
 			"commentaar": "<li>Editors</li>\n<li>Inhaler</li>\n<li>Black Box Revelation</li>",
 			"done": false,
 			"categorie": "vakantie",
-			"currency": "$"
+			"currency": "€"
 		},
 		{
 			"done": true,
@@ -36,7 +36,7 @@
 			"bedrag": "100",
 			"betaaldatum": "2023-06-01",
 			"categorie": "hobbies",
-			"currency": "$"
+			"currency": "£"
 		},
 		{
 			"done": false,
