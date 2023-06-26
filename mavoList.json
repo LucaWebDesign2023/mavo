@@ -25,6 +25,10 @@
 			"done": false
 		},
 		{
+			"done": false,
+			"bestelling": "Betaalde factuur"
+		},
+		{
 			"done": false
 		}
 	]
