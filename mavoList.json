@@ -7,7 +7,7 @@
 			"commentaar": "<img src=\"logo/dbz.jpg\" alt=\"Dan Bosco Zwijnaarde\" width=\"100\" height=\"100\" />TinyMCE voor commentaar",
 			"betaaldatum": "2023-06-30",
 			"done": false,
-			"categorie": "School"
+			"categorie": "school"
 		},
 		{
 			"bestelling": "Busabonnement",
@@ -16,7 +16,7 @@
 			"commentaar": "<strong>Hier staat vette tekst.</strong> En een weblink naar <a title=\"De Lijn\" href=\"http://www.delijn.be\" target=\"_blank\" rel=\"noopener\">De Lijn</a>.",
 			"betaaldatum": "2023-08-15",
 			"done": false,
-			"categorie": "School"
+			"categorie": "school"
 		},
 		{
 			"bestelling": "Ingangskaart zomerfestival",
@@ -25,14 +25,14 @@
 			"betaaldatum": "2023-06-10",
 			"commentaar": "<li>Editors</li>\n<li>Inhaler</li>\n<li>Black Box Revelation</li>",
 			"done": false,
-			"categorie": "Vakantie"
+			"categorie": "vakantie"
 		},
 		{
 			"done": true,
 			"bestelling": "Betaalde factuur",
 			"bedrag": "100",
 			"betaaldatum": "2023-06-01",
-			"categorie": "Vakantie"
+			"categorie": "hobbies"
 		}
 	]
 }
