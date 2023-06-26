@@ -36,7 +36,8 @@
 			"bedrag": "100",
 			"betaaldatum": "2023-06-01",
 			"categorie": "hobbies",
-			"currency": "£"
+			"currency": "£",
+			"begunstigde": "Onbekend"
 		},
 		{
 			"done": false,
