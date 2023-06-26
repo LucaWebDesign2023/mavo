@@ -28,8 +28,11 @@
 			"categorie": "Vakantie"
 		},
 		{
-			"done": false,
-			"bestelling": "Betaalde factuur"
+			"done": true,
+			"bestelling": "Betaalde factuur",
+			"bedrag": "100",
+			"betaaldatum": "2023-06-01",
+			"categorie": "Vakantie"
 		}
 	]
 }
