@@ -7,7 +7,8 @@
 			"commentaar": "<img src=\"logo/dbz.jpg\" alt=\"Dan Bosco Zwijnaarde\" width=\"100\" height=\"100\" />TinyMCE voor commentaar",
 			"betaaldatum": "2023-06-30",
 			"done": false,
-			"categorie": "school"
+			"categorie": "school",
+			"currency": "€"
 		},
 		{
 			"bestelling": "Busabonnement",
@@ -16,7 +17,8 @@
 			"commentaar": "<strong>Hier staat vette tekst.</strong> En een weblink naar <a title=\"De Lijn\" href=\"http://www.delijn.be\" target=\"_blank\" rel=\"noopener\">De Lijn</a>.",
 			"betaaldatum": "2023-08-15",
 			"done": false,
-			"categorie": "school"
+			"categorie": "school",
+			"currency": "$"
 		},
 		{
 			"bestelling": "Ingangskaart zomerfestival",
@@ -25,14 +27,16 @@
 			"betaaldatum": "2023-06-10",
 			"commentaar": "<li>Editors</li>\n<li>Inhaler</li>\n<li>Black Box Revelation</li>",
 			"done": false,
-			"categorie": "vakantie"
+			"categorie": "vakantie",
+			"currency": "$"
 		},
 		{
 			"done": true,
 			"bestelling": "Betaalde factuur",
 			"bedrag": "100",
 			"betaaldatum": "2023-06-01",
-			"categorie": "hobbies"
+			"categorie": "hobbies",
+			"currency": "$"
 		},
 		{
 			"done": false,
@@ -41,7 +45,8 @@
 			"bedrag": "450",
 			"betaaldatum": "2023-07-21",
 			"categorie": "hobbies",
-			"commentaar": "<img src=\"logo/dbz.jpg\" alt=\"Don Bosco Zwijnaarde\" width=\"100\" height=\"100\" />"
+			"commentaar": "<img src=\"logo/dbz.jpg\" alt=\"Don Bosco Zwijnaarde\" width=\"100\" height=\"100\" />",
+			"currency": "$"
 		}
 	]
 }
