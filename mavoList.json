@@ -33,6 +33,15 @@
 			"bedrag": "100",
 			"betaaldatum": "2023-06-01",
 			"categorie": "hobbies"
+		},
+		{
+			"done": false,
+			"bestelling": "Betaling jaarlijks lidgeld",
+			"begunstigde": "Sportvereniging",
+			"bedrag": "450",
+			"betaaldatum": "2023-07-21",
+			"categorie": "hobbies",
+			"commentaar": "<img src=\"logo/dbz.jpg\" alt=\"Don Bosco Zwijnaarde\" width=\"100\" height=\"100\" />"
 		}
 	]
 }
