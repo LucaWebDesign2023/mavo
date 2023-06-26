@@ -1,14 +1,3 @@
 {
-	"factuur": [
-		{
-			"done": false,
-			"bestelling": "Betaling nieuwe bestelling",
-			"begunstigde": "Fabrikant",
-			"bedrag": "123456",
-			"currency": "€",
-			"betaaldatum": "2023-01-01",
-			"categorie": "vakantie",
-			"commentaar": "TinyMCE voor commentaar"
-		}
-	]
+	"factuur": []
 }
