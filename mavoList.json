@@ -12,7 +12,7 @@
 		{
 			"bestelling": "Busabonnement",
 			"begunstigde": "De Lijn",
-			"bedrag": "300",
+			"bedrag": "350",
 			"commentaar": "<strong>Hier staat vette tekst.</strong> En een weblink naar <a title=\"De Lijn\" href=\"http://www.delijn.be\" target=\"_blank\" rel=\"noopener\">De Lijn</a>.",
 			"betaaldatum": "2023-08-15",
 			"done": false,
